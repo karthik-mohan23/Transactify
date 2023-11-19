@@ -1,4 +1,4 @@
-<h1>MERN Stack Coding Challenge</h1>
+<h1>Transactify</h1>
 <p>This project is a MERN stack application that fetches data from a third-party API, initializes a MongoDB database with the data, and provides APIs for listing product transactions and generating statistics based on user-defined search criteria and pagination.</p>
 <h2>Introduction</h2>
 <p>This coding challenge project utilizes a MERN (MongoDB, Express, React, Node.js) stack to create a full-fledged web application. The application fetches data from a third-party API, stores it in a MongoDB database, and offers two main features: listing product transactions and generating statistics based on user-specified search parameters and pagination.</p>
